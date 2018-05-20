@@ -1,4 +1,4 @@
-Deeza's Keymap
+Bael_Zharon's Keymap
 ===
 
 Split backspace, 6.25u space, right alt is fn, rgb controls on fn layer.
