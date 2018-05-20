@@ -1,7 +1,7 @@
 Bael_Zharon's Keymap
 ===
 
-Split backspace, 6.25u space, right alt is fn, rgb controls on fn layer.
+6.25u space, right alt is fn, rgb controls on fn layer.
 
 Keymap Maintainer: [Internetirl](https://github.com/internetirl)
 
